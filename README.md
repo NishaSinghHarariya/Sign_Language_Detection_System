@@ -10,7 +10,7 @@ Develop a system that detects American Sign Language (ASL) alphabets in real-tim
 
 
 ### Dataset from Kaggle :
-GitHub Repository for Sign Language to Speech: Unvoiced [https://github.com/grassknoted/Unvoiced]
+Dataset for Sign Language : [Unvoiced [https://github.com/grassknoted/Unvoiced]](https://www.kaggle.com/datasets/grassknoted/asl-alphabet)
 
 About
 The data set is a collection of images of alphabets from the American Sign Language, separated in 29 folders which represent the various classes.
